@@ -14,7 +14,6 @@ body {
 .header_image {
     background-color: #A60530;
     padding: 7%;
-    /*flex-grow: 1;*/
 }
 .header_text {
     padding: 3%;
