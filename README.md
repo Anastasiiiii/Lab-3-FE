@@ -1,2 +1,2 @@
 # Лабораторна робота №3
-The best messenger ever
+https://anastasiiiii.github.io/Lab-3-FE/ - посилання на сторінку.
