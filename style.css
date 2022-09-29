@@ -12,10 +12,12 @@ body {
     display: flex;
 }
 .header_image {
+    float: left;
     background-color: #A60530;
     padding: 7%;
 }
 .header_text {
+    float: right;
     padding: 3%;
     background-color: #590F3F;
     text-align: justify;
