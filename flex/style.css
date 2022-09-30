@@ -21,7 +21,6 @@ body {
     text-align: justify;
 }
 .body_text {
-    flex-grow: 3;
     padding: 3%;
     text-align: justify;
     background-color: #0F4C59;
